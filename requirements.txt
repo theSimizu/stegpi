@@ -1,0 +1,4 @@
+numpy==1.26.2
+Pillow==10.0.1
+pycryptodome==3.19.0
+xxhash==3.4.1
